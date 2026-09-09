@@ -1,0 +1,61 @@
+product_id,product_name,category,sub_category,unit_price
+PROD-0001,Bulletin Board (Bookcases),Furniture,Bookcases,109
+PROD-0002,Copier Machine (Paper),Office Supplies,Paper,356.26
+PROD-0003,Label Maker (Copiers),Technology,Copiers,12.69
+PROD-0004,Label Maker (Tables),Furniture,Tables,33.64
+PROD-0005,Label Maker (Labels),Office Supplies,Labels,122.73
+PROD-0006,Monitor Stand (Chairs),Furniture,Chairs,294.9
+PROD-0007,Desk Lamp (Bookcases),Furniture,Bookcases,547.24
+PROD-0008,Binder Clips (Phones),Technology,Phones,625.19
+PROD-0009,Copier Machine (Labels),Office Supplies,Labels,127.87
+PROD-0010,Reclining Chair (Tables),Furniture,Tables,649.56
+PROD-0011,Filing Cabinet (Binders),Office Supplies,Binders,590.57
+PROD-0012,Reclining Chair (Art),Office Supplies,Art,537.58
+PROD-0013,Conference Table (Accessories),Technology,Accessories,131.56
+PROD-0014,Whiteboard (Phones),Technology,Phones,698.37
+PROD-0015,Desk Lamp (Paper),Office Supplies,Paper,654.19
+PROD-0016,Monitor Stand (Storage),Office Supplies,Storage,657.33
+PROD-0017,Executive Office Chair (Tables),Furniture,Tables,529.73
+PROD-0018,Conference Table (Storage),Office Supplies,Storage,692.16
+PROD-0019,USB Hub (Storage),Office Supplies,Storage,409.98
+PROD-0020,Executive Office Chair (Machines),Technology,Machines,96.7
+PROD-0021,Task Chair (Paper),Office Supplies,Paper,770.21
+PROD-0022,Laser Printer (Binders),Office Supplies,Binders,479.27
+PROD-0023,Office Phone (Storage),Office Supplies,Storage,486.94
+PROD-0024,Whiteboard (Phones),Technology,Phones,720.11
+PROD-0025,Standing Desk (Bookcases),Furniture,Bookcases,568.48
+PROD-0026,Binder Clips (Tables),Furniture,Tables,347.88
+PROD-0027,Printer Paper Ream (Machines),Technology,Machines,254.56
+PROD-0028,Wall Calendar (Bookcases),Furniture,Bookcases,250.88
+PROD-0029,Whiteboard (Storage),Office Supplies,Storage,559.28
+PROD-0030,Desk Lamp (Accessories),Technology,Accessories,339.25
+PROD-0031,Printer Paper Ream (Paper),Office Supplies,Paper,457.44
+PROD-0032,Cubicle Panel (Labels),Office Supplies,Labels,5.32
+PROD-0033,Office Phone (Paper),Office Supplies,Paper,629.68
+PROD-0034,Paper Shredder (Machines),Technology,Machines,356.22
+PROD-0035,Wall Calendar (Accessories),Technology,Accessories,381.18
+PROD-0036,External Hard Drive (Accessories),Technology,Accessories,72.41
+PROD-0037,Wireless Mouse (Machines),Technology,Machines,655.65
+PROD-0038,Bookshelf Unit (Bookcases),Furniture,Bookcases,646.22
+PROD-0039,Standing Desk (Chairs),Furniture,Chairs,199.65
+PROD-0040,LED Desk Lamp (Labels),Office Supplies,Labels,615.95
+PROD-0041,Wireless Headset (Art),Office Supplies,Art,505.66
+PROD-0042,Storage Box (Furnishings),Furniture,Furnishings,322.72
+PROD-0043,Wireless Headset (Chairs),Furniture,Chairs,602.02
+PROD-0044,Bookshelf Unit (Furnishings),Furniture,Furnishings,144.83
+PROD-0045,Standing Desk (Copiers),Technology,Copiers,448.14
+PROD-0046,Ergonomic Keyboard (Furnishings),Furniture,Furnishings,642.13
+PROD-0047,Bulletin Board (Machines),Technology,Machines,713.68
+PROD-0048,Cubicle Panel (Copiers),Technology,Copiers,725.95
+PROD-0049,Copier Machine (Paper),Office Supplies,Paper,689.89
+PROD-0050,Bulletin Board (Storage),Office Supplies,Storage,201.56
+PROD-0051,Bulletin Board (Machines),Technology,Machines,623.25
+PROD-0052,Conference Table (Paper),Office Supplies,Paper,354.7
+PROD-0053,Bookshelf Unit (Machines),Technology,Machines,221.01
+PROD-0054,Wireless Mouse (Labels),Office Supplies,Labels,115.01
+PROD-0055,Desk Organizer (Furnishings),Furniture,Furnishings,126.48
+PROD-0056,Office Phone (Chairs),Furniture,Chairs,329.04
+PROD-0057,Office Phone (Copiers),Technology,Copiers,54.5
+PROD-0058,Wireless Headset (Art),Office Supplies,Art,616.99
+PROD-0059,LED Desk Lamp (Phones),Technology,Phones,705.12
+PROD-0060,Storage Box (Copiers),Technology,Copiers,9.69
